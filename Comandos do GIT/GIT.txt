@@ -1,0 +1,15 @@
+Git vs Git Hub
+
+GIT: Software de versionamento de código
+
+	▪ Controle de Versão
+	▪ Armazenamento em nuvem
+	▪ Trabalho em equipe
+	▪ Melhorar seu Código
+	▪ Reconhecimento
+	▪ Comandos de GIT
+
+Comandos Básicos para GIT BASH
+
+(cd/dir/mkdir/del/rmdir)
+
